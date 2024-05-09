@@ -48,12 +48,12 @@ Which cities are among the top 10 performers in terms of pizza sales?
 How does the sales performance of pizzas vary across different states?
 
 ## Analysis Findings and Recommendations
-- The best perfoming product category by region shows that the classic pizza category has consistently been on top of the charts in all the regions. I strongly recommend that due to the general acceptability of the product category, the production can be reinforced 
+- `The best perfoming product category by region shows that the classic pizza category has consistently been on top of the charts in all the regions. I strongly recommend that due to the general acceptability of the product category, the production can be reinforced 
 -The line chart showing the weekdays with the highest sales reveals that the sales recorded usually experience a decline at the beginning of the week into the mid week and high sales has always been recorded consistently on mid-week.  I will recommend that sales on weekends can be improved by ensuring that the outlet is opened 24/7 and regarding the mid- week sales decline, this must have been as a result of customers busy schedules, promo like free delivery on the early weekdays can be given to customers, this will wncourage them to patronize knowing that they dont have to drive down to the outlet or spend so much on delivery.
 - The sales trend report shows that there has been a consistent and notable decline in sales for the past four years around the month of October, could it be that the outlet is locked down most of the times or due to weather, the factors responsible for the sales decline can be looked into and appropriate measures should be put in place.
 - The Chart shows that the California state and most especially Los Angeles city most especially the west region recorded the highest sales over the years. The factors responsible for the sales performance can be looked into and also replicated across other states and regions.
 - The frequently ordered pizza size chart shows that the most ordered size is large and I highly recommend that large, medium and small size should always be available for sale while the extra-large and extra extra size should only be available on request
-- The average order time shows that a larger number of people place their orders some minutes after four pm, reminders can be sent to customers once in a while, specifically around such time and also this can be strategically done on days when low sales are recorded. 
+- The average order time shows that a larger number of people place their orders some minutes after four pm, reminders can be sent to customers once in a while, specifically around such time and also this can be strategically done on days when low sales are recorded. `
 
 
 ## Data Visualization
